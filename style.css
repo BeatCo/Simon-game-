@@ -1,0 +1,38 @@
+.set-size {
+    height: 200px;
+    width: 200px;
+    border-radius: 40px;
+    border: 5px double black;    
+}
+.red-block {
+    background-color: red;
+}
+.blue-block {
+    background-color: blue;
+}
+.yellow-block {
+    background-color: hsl(60, 100%, 50%);
+}
+.green-block {
+    background-color: green;
+
+}
+#header {
+    font-family: 'Press Start 2P', cursive;
+    color: wheat;
+    font-size: 3rem;
+}
+
+.on-click {
+    box-shadow:  0 0 30px white;
+    scale: 1.05;
+    border-color: white;
+}
+
+body{
+    background-color: hsl(0, 0%, 21%);
+}
+.game-over {
+
+    background-color: red;
+}
